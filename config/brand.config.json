@@ -1,0 +1,28 @@
+{
+  "_status": "PLACEHOLDERS. Update when the competition rules arrive (hashtag, brand wording, logo and image usage).",
+  "siteTitle": "ROLADIN HANUKKAH ARCADE",
+  "baseUrl": "https://tamir-br.github.io/roladin-arcade/",
+  "hashtags": ["#Roladin"],
+  "utm": { "source": "share", "campaign": "hanukkah2026" },
+  "defaultLanguage": "he",
+  "rights": {
+    "owner": "TamirB",
+    "line": "All rights reserved",
+    "instagram": "https://www.instagram.com/tamir_br/",
+    "homepage": "https://tamir-br.github.io/"
+  },
+  "brandNotice": {
+    "he": "שמות, לוגואים ותמונות הסופגניות שייכים לרולדין.",
+    "en": "Roladin names, logos and sufganiya images belong to Roladin."
+  },
+  "independentEntryNotice": null,
+  "logo": { "path": null, "note": "Use the official Roladin logo file. The site logo seen on the catalogue page is roladin_b.png on the foodbox CDN, get the official file instead of hotlinking." },
+  "analytics": {
+    "provider": "umami-cloud",
+    "plan": "hobby",
+    "enabled": false,
+    "websiteId": null,
+    "scriptUrl": null,
+    "note": "Deferred. User creates the Umami Cloud account (Hobby plan) and provides the website ID and script snippet. track() must no-op until enabled and websiteId are set. Verify current free-tier limits on umami.is/pricing."
+  }
+}

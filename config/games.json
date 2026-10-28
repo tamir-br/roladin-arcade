@@ -1,0 +1,10 @@
+{
+  "games": [
+    { "id": "reveal", "he": "סוגר שטחים", "en": "Area Closer", "orientation": "portrait", "donutChoice": "pick", "engine": "canvas", "dev": "dev-complex", "tier": "core" },
+    { "id": "frankendonut", "he": "סופגנייה מעורבבת", "en": "Mixed Donut", "orientation": "portrait", "donutChoice": "randomStart", "engine": "dom", "dev": "dev-standard", "tier": "core" },
+    { "id": "flappy", "he": "סופגנייה מעופפת", "en": "Flying Donut", "orientation": "portrait", "donutChoice": "pick", "engine": "canvas", "dev": "dev-standard", "tier": "core" },
+    { "id": "simon", "he": "סיימון סופגניות", "en": "Donut Simon", "orientation": "portrait", "donutChoice": "none", "engine": "dom", "dev": "dev-standard", "tier": "core", "config": { "tileCount": 4 } },
+    { "id": "mergedrop", "he": "סופגניות מהשמיים", "en": "Donuts From the Sky", "orientation": "portrait", "donutChoice": "none", "engine": "canvas-physics", "dev": "dev-complex", "tier": "core" },
+    { "id": "driving", "he": "משלוח סופגניות", "en": "Donut Delivery", "orientation": "landscape", "donutChoice": "pick", "engine": "canvas", "dev": "dev-complex", "tier": "last", "portraitFallback": true }
+  ]
+}
